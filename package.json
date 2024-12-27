@@ -14,7 +14,6 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@dcp-ui/icons.chevron-right": "^1.0.0",
     "classnames": "^2.5.1",
     "lucide-react": "^0.469.0",
     "next": "^14.1.0",
